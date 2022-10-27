@@ -6,7 +6,7 @@
     <script>
         window.githubreponame = new URLSearchParams(window.location.search).get('repo')
         if(window.githubreponame) {
-            window.deploy = () => { window.location = `https://heroku.com/deploy?template=https://github.com/statical-network/${window.githubreponame}` }
+            window.deploy = () => { window.location = `https://heroku.com/deploy?template=https://github.com/staticalnetwork-dev/${window.githubreponame}` }
         } else {
             alert('ERR! Something is wrong with your URL! Will try to go back to the last page!')
             window.history.back()
