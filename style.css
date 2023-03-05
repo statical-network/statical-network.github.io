@@ -1,5 +1,9 @@
-body {
+.body {
 background-color: #5a5a5a;
 color: white;
 font-family: 'Noto Sans', sans-serif;
+}
+
+.p {
+font-height: 15px;
 }
