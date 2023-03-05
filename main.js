@@ -1,8 +1,7 @@
 let splashData = {
-    //   "312": "https://incognito.tumbadoware.repl.co/load.html#",
-    //   "311": "https://elixir.tumbadoware.repl.co/load.html#",
-    "002": "static2alive#1865",
-    "002": "https://kashiuer-dev.solopanel.lol/load.html#"
+
+    "001": "static2alive#1865",
+    "002": ".gg/snetwork"
 };
 const values = Object.values(splashData);
 
